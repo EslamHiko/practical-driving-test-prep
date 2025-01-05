@@ -22,7 +22,8 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ## Look Right for Cyclists first:
 
 - https://maps.app.goo.gl/GUYz6Chj4sie9eHg9
-  ![](/cyclists.png)
+  
+![](/cyclists.png)
 ![](/cyclists-2.png)
 
 ## The road is narrowing down - Road is widening up:
@@ -46,11 +47,16 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ## Expected Questions
 
 ![](/lights.png)
-- Warnblinker:
+- Warnblinker (SUPA):
+  - Stau - Car not stable
   - Unfall - Acciedent
   - Panne - Car error
-  - Stau - Car not stable
   - Abschleppen - Car wil pick it up
+- Nebelscheinwerfer - [More info](https://www.frag-den-fahrlehrer.de/2017/11/13/nebelscheinwerfer-und-nebelschlussleuchte/):
+  - 50 meters
+  - Regen (rain)
+  - Nebel (fog)
+  - Schnee (snow)
 - Profiltiefe : 1.6 mm
 - Reifendruck
 ![](/tyre-recomm.png)
@@ -60,20 +66,38 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ![](/car-components.png)
 
 ## General Notes:
-- Kepp the indicator open when turning right or left on long lanes
-- Go always to the right lane because you're a driving school
-- If you don't have priority: Look Left, Then right, Then left again, then right and move.
-- Wait for people.
-- If there are cars in front of you and you're moving to the left. Wait until they all go or go when you have the green light.
+- Kepp the indicator open when turning right or left on long lanes.
+- Go always to **the right** lane because you're a driving school.
+- If you don't have priority (Triangle Shape): 
+  - It's preferrable to go **straight** without turning little right.
+  - If you need to go to little right to have a viewing point then look mirror, side mirror, side window before doing this small turn.
+  - Then Look Left, Then right, Then left again, then right and move.
+- Always wait for people:
+  - If there are children slow down.
+  - If there's someone going from their cars, slow down or change lanes.
+- At traffic light:
+  - If you're moving left:
+    - If there are cars in front of you and you're moving to the left. Wait until they all go or go when you have the green light.
+    - If 3 Cars were waiting in front of you, don't pass the traffic light. It'll be yellow and you shouldn't wait on passengers path.
+- On Autobahn:
+  - **Never** pass the car on the left.
+- At 30 zones:
+  - Right before left.
+  - If the right road is narrow, Stop or walk very very slow.
+  - If no priority go to the viewing point straight.
 - Pass the cycle if there's space and no one before you.
-- Inside city conditional 30 will most of times be from 7h to 17h
-- Outside city conditional 30 will be most of times be from 22h to 6h so speed will be 50
-- Stay on the right side always
-- Go to the viewing point **straight** if right then look before moving
-- The handler should be over the sidewalk completely when parking between 2 cars
-- Look straight when parking to know if you're straight
-- Stop before auuto bahn exit on the traffic light not on the turning point
-- In priority road/fast road expect that all are priority
+- Inside city conditional 30 will most of times be from 7h to 17h. Try To confirm that with your eyes.
+- Outside city conditional 30 will be most of times be from 22h to 6h so speed will be 50.
+- Stay on the right side always.
+- The handler (Car Opener) should be over the sidewalk completely when parking between 2 cars.
+- Look straight when parking to know if you're straight.
+- Stop before auto bahn exit on the traffic light not on the turning point.
+- In priority road/fast road expect that all are priority.
+- Don't slow down before changing the lanes.
+- If there's a bus:
+  - Slow down when passing it
+  - If it has the blinker open either wait or change the lane
+
 
 ## Exam Map
 
