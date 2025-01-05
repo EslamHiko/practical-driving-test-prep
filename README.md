@@ -37,6 +37,7 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ## There's only Bus road - Never walk on it:
 
 ![](/bus-road.png)
+![](/bus-road-2.png)
 
 ## Autobahn Exit:
 
@@ -45,6 +46,11 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ## Expected Questions
 
 ![](/lights.png)
+- Warnblinker:
+  - Unfall - Acciedent
+  - Panne - Car error
+  - Stau - Car not stable
+  - Abschleppen - Car wil pick it up
 - Profiltiefe : 1.6 mm
 - Reifendruck
 ![](/tyre-recomm.png)
