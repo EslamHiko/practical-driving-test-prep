@@ -44,6 +44,11 @@ This repository is personal repo for the most common/repititve mistakes I did du
 
 ![](auto-bahn-exit-1.png)
 
+## Safety Distance:
+
+- All safety distances: https://youtu.be/OtUmt6weMVU?si=Y3fzYG2Z3oXBt2Eg
+- 1-2 in Arabic: https://www.youtube.com/watch?v=lrwjf0YpveI
+
 ## Expected Questions
 
 ![](/lights.png)
