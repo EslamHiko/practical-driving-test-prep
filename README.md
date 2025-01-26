@@ -44,10 +44,31 @@ This repository is personal repo for the most common/repititve mistakes I did du
 
 ![](auto-bahn-exit-1.png)
 
+## Priority Order:
+
+Focus only on the cars coming from the front.
+
+![](/front-focus.png)
+
 ## Safety Distance:
+
+![](/safety-distance.png)
 
 - All safety distances: https://youtu.be/OtUmt6weMVU?si=Y3fzYG2Z3oXBt2Eg
 - 1-2 in Arabic: https://www.youtube.com/watch?v=lrwjf0YpveI
+
+## Traps
+
+Neukolln traffic light trap.
+
+![](/neukoln-traffic-trap.png)
+![](/neukoln-traffic-trap-2.png)
+![](/mac-lane-trap.png)
+
+## Stop For Coming Car
+
+![](/stop-for-coming-car-1.png)
+![](/stop-for-coming-car-2.png)
 
 ## Expected Questions
 
@@ -70,8 +91,10 @@ This repository is personal repo for the most common/repititve mistakes I did du
 - Under the car hood
 ![](/car-components.png)
 
+- https://youtu.be/ew1ely6qFb4
+
 ## General Notes:
-- Kepp the indicator open when turning right or left on long lanes.
+- Keep the indicator open when turning right or left on long lanes.
 - Go always to **the right** lane because you're a driving school.
 - If you don't have priority (Triangle Shape): 
   - It's preferrable to go **straight** without turning little right.
