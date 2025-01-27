@@ -61,14 +61,33 @@ Focus only on the cars coming from the front.
 
 Neukolln traffic light trap.
 
+Neukolln traffic light
+
 ![](/neukoln-traffic-trap.png)
 ![](/neukoln-traffic-trap-2.png)
+
+Mac Lane
+
 ![](/mac-lane-trap.png)
+
+Right Before Left Road Work
+
+![](/road-work.png)
+![](/road-work-2.png)
+
+School Speed 30
+
+![](/school-1.png)
+![](/school-2.png)
 
 ## Stop For Coming Car
 
 ![](/stop-for-coming-car-1.png)
 ![](/stop-for-coming-car-2.png)
+
+## Autobahn
+
+- Identify the gap from far place, always enter early.
 
 ## Expected Questions
 
