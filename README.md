@@ -26,6 +26,8 @@ This repository is personal repo for the most common/repititve mistakes I did du
 ![](/cyclists.png)
 ![](/cyclists-2.png)
 
+![](/cyclist-1.png)
+![](/cyclist-2.png)
 ## The road is narrowing down - Road is widening up:
 
 - https://maps.app.goo.gl/V9neNE8Td3g7HdqM8 - https://maps.app.goo.gl/PWDngCxh78NdUhLD6
