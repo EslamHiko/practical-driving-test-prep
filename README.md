@@ -82,6 +82,10 @@ School Speed 30
 ![](/school-1.png)
 ![](/school-2.png)
 
+2 Traffic
+
+![](/2traffic.png)
+
 ## Stop For Coming Car
 
 ![](/stop-for-coming-car-1.png)
