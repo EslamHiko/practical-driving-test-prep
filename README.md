@@ -122,7 +122,6 @@ School Speed 30
 - Keep the indicator open when turning right or left on long lanes.
 - Go always to **the right** lane because you're a driving school.
 - If you don't have priority (Triangle Shape): 
-  - It's preferrable to go **straight** without turning little right.
   - If you need to go to little right to have a viewing point then look mirror, side mirror, side window before doing this small turn.
   - Then Look Left, Then right, Then left again, then right and move.
 - Always wait for people:
@@ -137,7 +136,6 @@ School Speed 30
 - At 30 zones:
   - Right before left.
   - If the right road is narrow, Stop or walk very very slow.
-  - If no priority go to the viewing point straight.
 - Pass the cycle if there's space and no one before you.
 - Inside city conditional 30 will most of times be from 7h to 17h. Try To confirm that with your eyes.
 - Outside city conditional 30 will be most of times be from 22h to 6h so speed will be 50.
